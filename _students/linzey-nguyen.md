@@ -1,3 +1,4 @@
+---
 name: Linzey Nguyen
 github: linzeynguyen
 major: Management Information Systems
