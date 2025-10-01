@@ -1,3 +1,4 @@
+---
 name: Brett-Peterson
 github: brettpeterson1804
 major: Supply Chain Management
